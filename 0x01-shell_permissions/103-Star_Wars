@@ -1,2 +1,2 @@
 #!/bin/bash
-mpv --no-config --vo=tct towel.blinkenlights.ln
+telnet towel.blinkenlights.nl
